@@ -14,8 +14,8 @@ text-align: center;
 ubi
 {
 position: absolute;
-top: 5%;
-left: 45%;
+top: 7%;
+left: 50%;
 transform: translate(-50%,-50%);
 z-index: -1;
 }
@@ -24,4 +24,34 @@ ubix
 {
 position: relative;
 z-index: 1;
+}
+
+
+ubip
+{
+display: inline;
+position: relative;
+top: 100%;
+left: 10%;
+transform: translate(-50%,-50%);
+z-index: 1;
+}
+
+ubipi
+{
+display: inline;
+position: relative;
+top: 100%;
+left: 40%;
+transform: translate(-50%,-50%);
+z-index: 1;
+}
+
+ubil
+{
+position: absolute;
+top: 51%;
+left: 50%;
+transform: translate(-50%,-50%);
+z-index: -1;
 }
