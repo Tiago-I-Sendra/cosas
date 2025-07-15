@@ -42,7 +42,7 @@ ubipi
 display: inline;
 position: relative;
 top: 100%;
-left: 40%;
+left: 35%;
 transform: translate(-50%,-50%);
 z-index: 1;
 }
@@ -50,8 +50,54 @@ z-index: 1;
 ubil
 {
 position: absolute;
-top: 51%;
-left: 50%;
+top: 57.1%;
+left: 48%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
+
+ubilo
+{
+position: absolute;
+top: 57.1%;
+left: 15%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
+
+ubilio
+{
+position: absolute;
+top: 57.1%;
+left: 80%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
+
+ubipio
+{
+display: inline;
+position: relative;
+top: 100%;
+left: 57%;
+transform: translate(-50%,-50%);
+z-index: 1;
+}
+
+ubilio
+{
+position: absolute;
+top: 57.1%;
+left: 80%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
+
+ubiliop
+{
+position: absolute;
+top: 4%;
+left: 94%;
 transform: translate(-50%,-50%);
 z-index: -1;
 }
