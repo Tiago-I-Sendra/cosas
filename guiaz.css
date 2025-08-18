@@ -1,0 +1,14 @@
+body
+{
+background-image: url(https://wallpapercave.com/wp/wp4615596.jpg);
+background-size: 1370px 690px;
+background-repeat: no-repeat;
+}
+
+.banner {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    top: 0%;
+    left: 25%;
+  }
