@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="guiaz.css">
+</head>
+<body>
+<picture>
+  <source media="(min-width: 768px)" srcset="telefono.png">
+  <img  class="banner" src="compu.png" alt="Gotterdammerung">
+</picture>
+
+<picture class="banner">
+            <h2 style="color:rgb(0, 0, 0)">Gotterdammerung DLC - a 50% de descuento</h2>
+</picture>
+</body>
