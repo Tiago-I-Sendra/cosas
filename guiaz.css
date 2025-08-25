@@ -12,3 +12,18 @@ background-repeat: no-repeat;
     top: 0%;
     left: 25%;
   }
+
+  summary {
+    cursor: pointer; /* Indica que es un elemento clicable */
+    padding: 0.5em 0;
+    font-weight: bold; /* Para destacar la pregunta */
+  }
+  
+  details {
+    margin-bottom: 1em; /* Espacio entre preguntas */
+  }
+  
+  details p {
+    padding: 0.5em 1em; /* Un poco de sangría para la respuesta */
+  }
+  
