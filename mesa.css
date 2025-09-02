@@ -1,0 +1,102 @@
+body
+{
+background-image: url(https://img.pikbest.com/wp/202344/leather-chair-closeup-texture-a-detailed-view-of-the-upholstery-background-on_9930613.jpg!w700wp);
+background-size: 1370px 690px;
+background-repeat: no-repeat;
+}
+
+h1
+{
+color: white;
+text-align: center;
+}
+
+ubi
+{
+position: absolute;
+top: 65%;
+left: 15%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
+
+ubix
+{
+position: relative;
+z-index: 1;
+}
+
+
+ubip
+{
+position: absolute;
+top: 85%;
+left: 15%;
+transform: translate(-50%,-50%);
+z-index: 1;
+}
+
+ubipi
+{
+display: inline;
+position: relative;
+top: 100%;
+left: 37%;
+transform: translate(-50%,-50%);
+z-index: 1;
+}
+
+ubil
+{
+position: absolute;
+top: 65%;
+left: 50%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
+
+ubilo
+{
+position: absolute;
+top: 58.5%;
+left: 15%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
+
+ubilio
+{
+position: absolute;
+top: 58.5%;
+left: 80%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
+
+ubipio
+{
+display: inline;
+position: relative;
+top: 100%;
+left: 62%;
+transform: translate(-50%,-50%);
+z-index: 1;
+}
+
+ubilio
+{
+position: absolute;
+top: 58.5%;
+left: 80%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
+
+ubiliop
+{
+position: absolute;
+top: 4%;
+left: 94%;
+transform: translate(-50%,-50%);
+z-index: -1;
+}
