@@ -15,7 +15,8 @@ ubi
 {
 position: absolute;
 top: 65%;
-left: 15%;
+left: 20%;
+cursor: pointer;
 transform: translate(-50%,-50%);
 z-index: -1;
 }
@@ -31,17 +32,16 @@ ubip
 {
 position: absolute;
 top: 85%;
-left: 15%;
+left: 20%;
 transform: translate(-50%,-50%);
 z-index: 1;
 }
 
 ubipi
 {
-display: inline;
-position: relative;
-top: 100%;
-left: 37%;
+position: absolute;
+top: 85%;
+left: 50%;
 transform: translate(-50%,-50%);
 z-index: 1;
 }
@@ -51,6 +51,7 @@ ubil
 position: absolute;
 top: 65%;
 left: 50%;
+cursor: pointer;
 transform: translate(-50%,-50%);
 z-index: -1;
 }
@@ -58,8 +59,9 @@ z-index: -1;
 ubilo
 {
 position: absolute;
-top: 58.5%;
-left: 15%;
+top: 65%;
+left: 80%;
+cursor: pointer;
 transform: translate(-50%,-50%);
 z-index: -1;
 }
@@ -75,10 +77,9 @@ z-index: -1;
 
 ubipio
 {
-display: inline;
-position: relative;
-top: 100%;
-left: 62%;
+position: absolute;
+top: 85%;
+left: 80%;
 transform: translate(-50%,-50%);
 z-index: 1;
 }
